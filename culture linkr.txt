@@ -1,6 +1,6 @@
-CREATE TABLE 
+CREATE TABLE aims
 
-aims( id  PRIMARY KEY,
+( id  PRIMARY KEY,
 
 title VARCHAR(250) NOT NULL,
 

@@ -1,0 +1,7 @@
+CREATE TABLE 
+
+aims( id  PRIMARY KEY,
+
+title VARCHAR(250) NOT NULL,
+
+completed BOOLEAN DEFAULT FALSE);
